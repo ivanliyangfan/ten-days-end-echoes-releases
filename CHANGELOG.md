@@ -1,3 +1,11 @@
+# 0.2.25 — More morph animations (Alpha)
+
+Frogs gain jumping, croaking and water-idle animation states. Camels gain idle animation. Warden forms animate player swings without additional damage or AI.
+
+Updated bilingual starter handbook and animation transition checks. Complete swimming/turning parity and real two-client validation remain unfinished.
+
+Minecraft Java 1.20.1, Forge, Java 17. Back up worlds; use matching client/server versions.
+
 # 0.2.24 — Morph animation improvements (Alpha)
 
 Walking transitions are smoothed. Bats fly rather than hanging upside down. Chickens flap in the air, squid tentacles animate, and slimes squash and stretch when jumping and landing. Animation proxies never run entity AI, movement or loot logic.
