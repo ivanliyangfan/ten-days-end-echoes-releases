@@ -1,3 +1,11 @@
+# 0.2.24 — Morph animation improvements (Alpha)
+
+Walking transitions are smoothed. Bats fly rather than hanging upside down. Chickens flap in the air, squid tentacles animate, and slimes squash and stretch when jumping and landing. Animation proxies never run entity AI, movement or loot logic.
+
+Skills, collision sizes and save data are unchanged. Updated Chinese/English starter handbook. Other species-specific animations and real two-client validation remain in progress.
+
+Minecraft Java 1.20.1, Forge, Java 17. Back up worlds and use matching client/server versions.
+
 # 0.2.23 — Drowned morph trident (Alpha)
 
 Press V in Drowned form to throw a vanilla trident along your aim, with a 3-second cooldown. No inventory trident is consumed; spawned tridents cannot be picked up, preventing item farming. Silence and Echo seals prevent activation. Updated bilingual hints and starter handbook.
